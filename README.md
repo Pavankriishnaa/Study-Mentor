@@ -1,5 +1,7 @@
 # CinTrack Study Space 🚀
 
+![CinTrack Study Space Thumbnail](assets/thumbnail.png)
+
 CinTrack Study Space (also known as **Study Mentor**) is a premium, feature-rich Single Page Application (SPA) designed to help students and learners optimize their study sessions. It integrates task management, an interactive Pomodoro timer, flashcard active recall decks, multiple-choice quizzes, and a scheduled pop-quiz reminder system into one cohesive, beautifully designed workspace.
 
 The application is built using a modern, responsive interface utilizing custom styling, clean typography (Inter and Outfit Google Fonts), glassmorphic elements, smooth micro-animations, and full support for both Dark and Light themes.
